@@ -15,7 +15,7 @@ on:
     branches:
     - main
 
-# The sequence of runs in this workflow:
+# The sequence of runs in this workflow: 
 jobs:
   # This workflow contains a single job called "build"
   build:
